@@ -1,0 +1,12 @@
+body {
+  background-color: #fff;
+  color: #000;
+}
+
+img {
+  display: none;
+}
+
+.noprint {
+  display: none;
+}
